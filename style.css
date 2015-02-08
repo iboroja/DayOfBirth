@@ -1,0 +1,10 @@
+.dateOfBirth{
+	margin: 0 auto;
+	margin-top: 80px;
+	text-align: center;
+}
+select{
+	background:#F5F5F5;
+	width: 70px;
+	height: 30px;
+}
